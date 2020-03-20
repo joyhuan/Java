@@ -1,6 +1,6 @@
 /** Tutorial from 1BestCsharp blog
 * (https://1bestcsharp.blogspot.com/2017/08/java-login-and-register-form-design.html)
-* This is a much nice and more intuitive way to create GUI. When I was 
+* This is a much nicer and more intuitive way to create GUI. When I was 
 * a freshman, we still needed to manually set the location of the components.
 * Unnecessary toil. */
 
